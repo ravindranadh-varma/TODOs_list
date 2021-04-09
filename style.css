@@ -1,0 +1,10 @@
+#clear{
+    box-shadow: none!important;
+}
+#add{
+    box-shadow: none!important;
+}
+#add:hover {
+    background-color:white!important; /* Green */
+    color: black!important;
+  }
