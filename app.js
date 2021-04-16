@@ -58,6 +58,6 @@ contactus.addEventListener("click",function(){
 })
 search=document.getElementById("search");
 search.addEventListener("click",function(){
-    alert("serach in google mava bro");
+    alert("comming soon..");
 })
  
